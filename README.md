@@ -6,3 +6,4 @@ calistirma sekli su sekildedir
 time python social_distance_detector.py --input dosyaismi.mp4 \
 	--output cikisdosyaismi.avi --display 0
 
+bir eye view mantigi var en son calisan halini perpestive transforma cevirip point yapip bird eye view kisminin yapilmasi gerekiyor.
